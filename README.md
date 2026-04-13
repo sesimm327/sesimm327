@@ -16,7 +16,7 @@ I’m a mom of two amazing boys (11 & 9), and they are my main reason that I'm h
 - I can build things that matter  
 - I can give my sons stability and a future they can be proud of  
 
-This GitHub is the very beginning of that story, the first brick in a foundation I’m building for us, with my boyfriend, my other half who convinced me that I have what it takes to make my way for myself.
+This GitHub is the very beginning of that story, the first brick in a foundation that I’m building, for the three of us.
 
 ---
 

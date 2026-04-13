@@ -43,7 +43,7 @@ Right now, I’m learning the fundamentals and building my base:
  React, Node.js, APIs, databases, and full‑stack applications.
  
 ---
-**I don’t have projects yet — this README is my first one — but that’s part of the journey. Everyone starts with an empty repo. Mine just happens to come with a lot of heart behind it.**
+**I don’t have projects yet. This README is my first one, but that’s just part of my story. Everyone starts with an empty repo. Mine just happens to come with a lot of heart behind it.**
 
 ---
  **📘 Projects (Coming Soon)**
